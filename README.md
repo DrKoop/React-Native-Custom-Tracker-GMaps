@@ -12,3 +12,8 @@ Permissions are requested from the user for its operation:
 If Permissions are denied, navigate user to native features (on any device), to allow Permissions:
 
 ![noypermiso](https://user-images.githubusercontent.com/95058605/226692863-13098e66-5ea0-4794-a3ba-8c2fcc1bce55.gif)
+
+- Route Tracker between two points.
+-Button to Return to the Starting Point, from any Zone.
+
+![tracker](https://user-images.githubusercontent.com/95058605/226693159-38e3832b-e3a9-4280-b174-da22eb61fe58.gif)
